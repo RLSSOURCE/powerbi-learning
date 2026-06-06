@@ -1,4 +1,4 @@
-# powerbi Learning
+# Power Bi Learning
 
 A collection of Power BI practice projects, dashboards, and notes.
 
